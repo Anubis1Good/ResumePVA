@@ -1,0 +1,94 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  padding-top: 0px;
+  background-color: rgb(194, 243, 255);
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+}
+main {
+  max-width: 800px;
+  margin: auto;
+  background-color: rgb(226, 251, 238);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: grid;
+  justify-content: center;
+}
+#photo {
+  width: 40%;
+  display: table-cell;
+  border-radius: 10px;
+}
+.main-info {
+  display: flex;
+  margin-left: 10px;
+  padding: 10px;
+  width: 60%;
+  background-color: blanchedalmond;
+  border-radius: 10px;
+  
+}
+.cont-info {
+  margin: auto;
+}
+.main-about {
+  display: flex;
+  justify-content: start;
+  padding: 0px 10px;
+}
+.about-me {
+  display: inline-block;
+  list-style: none;
+  padding: 0px 0px 0px 20px;
+
+}
+li {
+  margin: 5px;
+}
+.main-skills {
+  display: flex;
+  justify-content: center;
+  padding: 0px 10px ;
+}
+.main-box {
+  border-radius: 10px;
+  background-color: blanchedalmond;
+  margin: 10px 0px 0px 0px;
+  padding: 20px;
+  
+  width: 50%;
+  
+}
+#main-box1 {
+  margin-right: 10px;
+}
+#language{
+  width: 94%;
+}
+p {
+  text-indent: 20px;
+  padding: 0px 10px 10px 10px;
+  margin: 0px;
+  text-align: justify;
+}
+h3 {
+  text-indent: 25px;
+}
+.exp {
+  border-radius: 10px;
+  background-color: blanchedalmond;
+  margin: 10px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  padding: 0px 5px;
+}
+.path-it {
+  width:94%;
+  margin: 0px;
+}
+.education {
+  width: 94%;
+}
